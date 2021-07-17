@@ -1,0 +1,86 @@
+body{
+    background-color: #e4f9f5;
+    margin: 0;
+    font-family: 'Laila', sans-serif;
+
+}
+@font-face {
+    font-family:'Laila' ;
+    src: url("./assets/Laila/Laila-Regular.ttf");
+}
+.circular {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .circular img {
+    width: 340px;
+    height: 240px;
+    margin-left: -70px;
+    text-align: center;
+  } 
+  #actor-name1{
+    margin-top: 25px;
+    margin-bottom: 0;
+    font-weight: 500;
+    font-family: 'Laila', sans-serif;
+    font-size: 70px;
+    position:relative;
+    color: #202124;
+  }
+  #actor-name{
+    text-align: center;
+    background-color: #e4f9f5;
+    width: 100%;
+  }
+  .actor-edit{
+    position:fixed;
+    top : 0;
+    width:100%;
+    margin-top:0px;
+    padding-top:8px;
+    font-size:50px;
+    text-decoration:underline;
+    background-color: #e4f9f5;
+    font-weight: 500;
+  }
+  #box{
+
+      margin-top: 20px;
+      padding-left: 10px;
+      padding-right: 10px;
+      color:#202124; 
+      font-family: 'Laila', sans-serif;
+      font-size: 29px;
+  }
+  #box p{
+    margin-top: 0px;
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+ footer{
+  background-color: #66BFBF;
+  padding: 50px 0 30px;
+  text-align: center;
+  width: auto;
+ }
+ footer a{
+  color: #11999E;
+  text-decoration: none;
+
+  margin: 10px 20px;    
+ }
+ footer a:hover{
+   color: white;
+   cursor: pointer;
+ }
+
+   
