@@ -4,10 +4,10 @@ body{
     font-family: 'Laila', sans-serif;
 
 }
-@font-face {
+/* @font-face {
     font-family:'Laila' ;
     src: url("./assets/laila/Laila-Regular.ttf");
-}
+} */
 .circular {
     position: relative;
     width: 200px;
