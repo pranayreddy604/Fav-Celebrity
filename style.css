@@ -6,7 +6,7 @@ body{
 }
 @font-face {
     font-family:'Laila' ;
-    src: url("./assets/Laila/Laila-Regular.ttf");
+    src: url("./assets/laila/Laila-Regular.ttf");
 }
 .circular {
     position: relative;
