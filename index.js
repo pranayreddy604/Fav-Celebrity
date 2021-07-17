@@ -1,5 +1,4 @@
 let  nav = document.getElementById("actor-name1")
-console.log(nav);
 window.onscroll = function () {
 
 if(window.pageYOffset >160){
